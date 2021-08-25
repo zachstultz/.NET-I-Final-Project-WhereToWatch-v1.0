@@ -1,5 +1,5 @@
 # .NET I Final Project: WhereToWatch v1.0
-WhereToWatch v1.0 is a media search tool that I made for my .NET I Final Project with Jim Glasgow at Kirkwood Community College. During this semester we learned
+WhereToWatch v1.0 is a media search tool that I made for my .NET I Final Project in Jim Glasgow's class at Kirkwood Community College. During this semester we learned
 C# and how to use Visual Studio for the first time. The tool itself allows you to search up any movie or tv show you can think of, and be provided various details about the result, and even a trailer link, if available. It accomplishes this by communicating with TheMovieDB's API. 
 
 **If you decide to download the project for testing, you must provide your own API Key, sorry.
