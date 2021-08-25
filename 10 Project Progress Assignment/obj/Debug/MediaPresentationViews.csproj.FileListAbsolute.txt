@@ -1,0 +1,151 @@
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csprojAssemblyReference.cache
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.exe.config
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.MediaResultsForm.resources
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.MediaSearchForm.resources
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\_10_Project_Progress_Assignment.Properties.Resources.resources
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.GenerateResource.cache
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.exe
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe.config
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\DataAccessLayer.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\DataObjects.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\LogicLayer.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\DataAccessLayer.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\DataAccessLayer.dll.config
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\DataObjects.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\LogicLayer.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\LogicLayer.dll.config
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\Hasseware.Net.TMDb.xml
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.xml
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.CopyComplete
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.xml
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csprojAssemblyReference.cache
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.MediaResultsForm.resources
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.MediaSearchForm.resources
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\obj\Debug\_10_Project_Progress_Assignment.Properties.Resources.resources
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.GenerateResource.cache
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.CopyComplete
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.exe
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.xml
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\MediaDataAccess.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\MediaDataObjects.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\MediaDataAccess.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\MediaDataAccess.dll.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\MediaDataObjects.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\MediaDataObjects.dll.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.dll.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataAccess.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataObjects.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataAccess.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataAccess.dll.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataObjects.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataObjects.dll.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.dll.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.xml
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.xml
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csprojAssemblyReference.cache
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.MediaResultsForm.resources
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.MediaSearchForm.resources
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\_10_Project_Progress_Assignment.Properties.Resources.resources
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.GenerateResource.cache
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.CopyComplete
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.exe
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.pdb
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe.config
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.pdb
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataAccess.dll
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataObjects.dll
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.dll
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.dll
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.dll
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataAccess.pdb
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataAccess.dll.config
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataObjects.pdb
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataObjects.dll.config
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.pdb
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.dll.config
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.xml
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.pdb
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.xml
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csprojAssemblyReference.cache
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.MediaResultsForm.resources
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.MediaSearchForm.resources
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\_10_Project_Progress_Assignment.Properties.Resources.resources
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.GenerateResource.cache
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.CoreCompileInputs.cache
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.CopyComplete
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.exe
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.pdb
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe.config
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.pdb
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataAccess.dll
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataObjects.dll
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.dll
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.dll
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.dll
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataAccess.pdb
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataAccess.dll.config
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataObjects.pdb
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataObjects.dll.config
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.pdb
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.dll.config
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.xml
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.pdb
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.xml
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.AssemblyReference.cache
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.MediaResultsForm.resources
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.MediaSearchForm.resources
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\_10_Project_Progress_Assignment.Properties.Resources.resources
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.GenerateResource.cache
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.CoreCompileInputs.cache
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.CopyComplete
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.exe
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.pdb
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe.config
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.pdb
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataAccess.dll
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataObjects.dll
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.dll
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataAccess.pdb
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataAccess.dll.config
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataObjects.pdb
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaDataObjects.dll.config
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.pdb
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\MediaLogicLayer.dll.config
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.AssemblyReference.cache
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.MediaResultsForm.resources
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.MediaSearchForm.resources
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\_10_Project_Progress_Assignment.Properties.Resources.resources
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.GenerateResource.cache
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.CoreCompileInputs.cache
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\MediaPresentationViews.csproj.CopyComplete
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.exe
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.pdb

@@ -1,0 +1,76 @@
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\DataObjects.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\Hasseware.Net.TMDb.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\DataObjects.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\Hasseware.Net.TMDb.xml
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\obj\Debug\MediaDataAccess.csprojAssemblyReference.cache
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\obj\Debug\MediaDataAccess.csproj.CopyComplete
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataAccessLayer\obj\Debug\MediaDataAccess.csprojAssemblyReference.cache
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataAccessLayer\obj\Debug\MediaDataAccess.csproj.CopyComplete
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataAccessLayer\bin\Debug\MediaDataAccess.dll.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataAccessLayer\bin\Debug\MediaDataAccess.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataAccessLayer\bin\Debug\MediaDataAccess.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataAccessLayer\bin\Debug\MediaDataObjects.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataAccessLayer\bin\Debug\MediaDataObjects.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataAccessLayer\bin\Debug\MediaDataObjects.dll.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataAccessLayer\obj\Debug\MediaDataAccess.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataAccessLayer\obj\Debug\MediaDataAccess.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataAccess.dll.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataAccess.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataAccess.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataObjects.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataObjects.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataObjects.dll.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.csprojAssemblyReference.cache
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.csproj.CopyComplete
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.pdb
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataAccess.dll.config
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataAccess.dll
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataAccess.pdb
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataObjects.dll
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataObjects.pdb
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataObjects.dll.config
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.csprojAssemblyReference.cache
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.csproj.CoreCompileInputs.cache
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.csproj.CopyComplete
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.dll
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.pdb
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataAccess.dll.config
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataAccess.dll
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataAccess.pdb
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataObjects.dll
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataObjects.pdb
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataObjects.dll.config
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.csproj.AssemblyReference.cache
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.csproj.CoreCompileInputs.cache
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.csproj.CopyComplete
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.dll
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.pdb
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataAccess.dll.config
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataAccess.dll
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataAccess.pdb
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataObjects.dll
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataObjects.pdb
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataAccessLayer\bin\Debug\MediaDataObjects.dll.config
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.csproj.AssemblyReference.cache
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.csproj.CopyComplete
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.dll
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataAccessLayer\obj\Debug\MediaDataAccess.pdb

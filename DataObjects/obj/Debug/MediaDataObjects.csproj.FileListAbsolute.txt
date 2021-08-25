@@ -1,0 +1,62 @@
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataObjects\bin\Debug\DataObjects.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataObjects\bin\Debug\DataObjects.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataObjects\bin\Debug\Newtonsoft.Json.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataObjects\bin\Debug\TMDbLib.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataObjects\bin\Debug\Newtonsoft.Json.xml
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataObjects\obj\Debug\MediaDataObjects.csprojAssemblyReference.cache
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataObjects\obj\Debug\MediaDataObjects.csproj.CopyComplete
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataObjects\obj\Debug\DataObjects.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataObjects\obj\Debug\DataObjects.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataObjects\bin\Debug\Newtonsoft.Json.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataObjects\bin\Debug\TMDbLib.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataObjects\bin\Debug\Newtonsoft.Json.xml
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataObjects\obj\Debug\MediaDataObjects.csproj.CopyComplete
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataObjects\obj\Debug\MediaDataObjects.csprojAssemblyReference.cache
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataObjects\bin\Debug\MediaDataObjects.dll.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataObjects\bin\Debug\MediaDataObjects.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataObjects\bin\Debug\MediaDataObjects.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataObjects\obj\Debug\MediaDataObjects.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Project Progress Assignment\DataObjects\obj\Debug\MediaDataObjects.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\MediaDataObjects.dll.config
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\MediaDataObjects.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\MediaDataObjects.pdb
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\Newtonsoft.Json.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\TMDbLib.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\Newtonsoft.Json.xml
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.csprojAssemblyReference.cache
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.csproj.CopyComplete
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.dll
+I:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.pdb
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\MediaDataObjects.dll.config
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\MediaDataObjects.dll
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\MediaDataObjects.pdb
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\Newtonsoft.Json.dll
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\TMDbLib.dll
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\Newtonsoft.Json.xml
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.csprojAssemblyReference.cache
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.csproj.CoreCompileInputs.cache
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.csproj.CopyComplete
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.dll
+D:\School\2020\Spring\Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.pdb
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\MediaDataObjects.dll.config
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\MediaDataObjects.dll
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\MediaDataObjects.pdb
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\Newtonsoft.Json.dll
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\TMDbLib.dll
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\bin\Debug\Newtonsoft.Json.xml
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.csproj.AssemblyReference.cache
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.csproj.CoreCompileInputs.cache
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.csproj.CopyComplete
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.dll
+D:\2020\Spring\.Net Development\Final Project\Mine\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.pdb
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataObjects\bin\Debug\MediaDataObjects.dll.config
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataObjects\bin\Debug\MediaDataObjects.dll
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataObjects\bin\Debug\MediaDataObjects.pdb
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataObjects\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataObjects\bin\Debug\TMDbLib.dll
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataObjects\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.csproj.AssemblyReference.cache
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.csproj.CoreCompileInputs.cache
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.csproj.CopyComplete
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.dll
+C:\Users\Zach\Desktop\todo\1. .NET 1\Stultz, Z Final Project\DataObjects\obj\Debug\MediaDataObjects.pdb

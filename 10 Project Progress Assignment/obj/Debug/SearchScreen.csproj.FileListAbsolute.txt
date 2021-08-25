@@ -1,0 +1,21 @@
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe.config
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.exe
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\10 Project Progress Assignment.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\DataAccessLayer.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\DataObjects.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\LogicLayer.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\DataAccessLayer.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\DataObjects.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\LogicLayer.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\Hasseware.Net.TMDb.xml
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\Newtonsoft.Json.xml
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\SearchScreen.csprojAssemblyReference.cache
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\_10_Project_Progress_Assignment.Form1.resources
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\_10_Project_Progress_Assignment.Properties.Resources.resources
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\SearchScreen.csproj.GenerateResource.cache
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\SearchScreen.csproj.CopyComplete
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.exe
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\bin\Debug\LogicLayer.dll.config
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\10 Project Progress Assignment\obj\Debug\10 Project Progress Assignment.exe.config

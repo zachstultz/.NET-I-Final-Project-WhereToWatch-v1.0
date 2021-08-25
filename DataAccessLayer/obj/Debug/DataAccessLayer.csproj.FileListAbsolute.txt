@@ -1,0 +1,12 @@
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\DataObjects.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\Hasseware.Net.TMDb.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\DataObjects.pdb
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\Hasseware.Net.TMDb.xml
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+I:\School\2020\Spring\Net Development\Assignments\10 Project Progress Assignment\10 Project Progress Assignment\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
